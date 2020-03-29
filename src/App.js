@@ -1,4 +1,3 @@
-/* eslint react/no-did-mount-set-state: 0 */
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 
